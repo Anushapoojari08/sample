@@ -6,5 +6,4 @@ Let's try to understand this with an example:
 Below is the screenshot of official ubuntu base image which you can use for your container. It's just ~ 22 MB, isn't it very small ? on a contrary if you look at official ubuntu VM image it will be close to ~ 2.3 GB. So the container base image is almost 100 times less than VM image.
 
 
-we will continue soon.
-Hi it me niriksha.
+
