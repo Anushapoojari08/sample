@@ -6,3 +6,11 @@ y=3+4
 
 z=5+6
 
+#SUBSTRACTION
+
+a=1-2
+
+#DIVISION
+
+b=4/2
+
