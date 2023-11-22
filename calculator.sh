@@ -1,3 +1,5 @@
 #ADDITION FUNCTION
 
-x=1+2x=1+2
+x=1+2
+
+y=3+4
