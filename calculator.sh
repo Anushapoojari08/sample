@@ -14,3 +14,8 @@ a=1-2
 
 b=4/2
 
+
+#MULTIPLICATION
+
+
+c=3*4
